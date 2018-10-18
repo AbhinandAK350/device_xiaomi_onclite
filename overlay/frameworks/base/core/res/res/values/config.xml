@@ -401,4 +401,7 @@
         <item>cx.ring</item>
         <item>org.briarproject.briar.android</item>
     </string-array>
+
+    <!-- Whether device ignores the RSSNR signal implementation -->
+    <bool name="config_ignoreRssnrSignalLevel">true</bool>
 </resources>
